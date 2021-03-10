@@ -2913,9 +2913,7 @@ h6 {
     margin-top: 27px;
     margin-bottom: 23px; }
 
-  .header_area .navbar {
-    background: #000; }
-
+ 
   .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
     opacity: 1; }
 
@@ -2936,7 +2934,7 @@ h6 {
     display: block;
     width: 25px;
     height: 3px;
-    background: #fff;
+    background: rgb(67, 67, 67);
     margin: auto;
     margin-bottom: 4px;
     transition: all 400ms linear;
